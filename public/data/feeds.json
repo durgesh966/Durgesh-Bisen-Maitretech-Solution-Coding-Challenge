@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name": "Hamburger",
+        "price": "200",
+        "image": "/assets/burger.jpeg",
+        "description": "A delicious burger with all the classic toppings."
+    },
+    {
+        "id":2,
+        "name": "Fries",
+        "price": "100",
+        "image": "/assets/coke.jpeg",
+        "description": "A refreshing Coke to go with your meal."
+    },
+    {
+        "id":3,
+        "name": "Coke",
+        "price": "50",
+        "image": "/assets/fries.jpeg",
+        "description": "Crispy golden fries to complement your meal."
+    },
+    {
+        "id":4,
+        "name": "Pepsi",
+        "price": "50",
+        "image": "/assets/pepsi.jpeg",
+        "description": "A Pepsi to refresh you."
+    }
+]
